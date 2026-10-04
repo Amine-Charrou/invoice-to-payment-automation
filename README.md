@@ -1,12 +1,15 @@
-# Invoice-to-Payment Automation: A Consulting Case
+# Invoice-to-Payment AI Automation
 
 > Map the process, redesign it with AI, prove the ROI.
 
-![status](https://img.shields.io/badge/status-planned-lightgrey) ![phase](https://img.shields.io/badge/sprint-Weeks%2011--12-blue)
+![status](https://img.shields.io/badge/status-design%20stage-lightgrey) ![sprint](https://img.shields.io/badge/sprint-Weeks%2011--12-blue) ![project](https://img.shields.io/badge/portfolio-06%2F08-0891b2)
 
-**Category:** AI Automation × Consulting · **Domain:** Operations / Finance · **Stack:** n8n · LLM extraction · Python · Excel
-
-Project 06/08 of my *Data & AI × Business Consulting* portfolio. 🚧 **Design stage, no implementation yet.**
+| | |
+|---|---|
+| **Category** | AI Automation × Consulting |
+| **Domain** | Operations / Finance |
+| **Stack** | n8n · LLM extraction · Python · Excel |
+| **Status** | 🚧 Scoped — implementation not started |
 
 ## Overview
 
@@ -15,6 +18,13 @@ A full AI-transformation engagement on one workflow: invoice processing. It docu
 ## Business problem
 
 Invoice processing is full of manual data entry, validation, approvals and rework, which makes it slow, error-prone and costly.
+
+## What this project demonstrates
+
+- Running a consulting-style engagement end to end
+- Process mapping and bottleneck analysis
+- AI document extraction combined with business rules
+- ROI modelling and executive communication
 
 ## Key points
 
@@ -62,14 +72,16 @@ ERP update → notification → monitoring
 process/  n8n/  src/extraction/  roi/  docs/
 ```
 
-## Status
+## Roadmap
 
 - [x] Scope and README
-- [ ] Data
-- [ ] Implementation
-- [ ] Evaluation & business impact
-- [ ] Demo and write-up
+- [ ] Data collection / generation
+- [ ] Core implementation
+- [ ] Evaluation and business-impact estimate
+- [ ] Demo, write-up and interview notes
 
 ---
 
-*Author: Amine Charrou · Final-year Data Science & AI engineering student, ENSA Agadir*
+Part of my **Data & AI × Business Consulting** portfolio, a 16-week sprint of 8 projects going from data and BI to ML, GenAI, agents, automation and AI strategy. See all projects on my [GitHub profile](https://github.com/Amine-Charrou).
+
+*Amine Charrou · Final-year Data Science & AI engineering student, ENSA Agadir · [LinkedIn](https://www.linkedin.com/in/amine-charrou/)*
